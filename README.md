@@ -5,7 +5,7 @@ Upload an image, enter a prompt, and let the AI generate stunning thumbnails for
 
 ---
   ## Here is the 🎬 Demo
-👉 [Live Demo](https://youtu.be/roJ2bHhALX0)
+👉 [Live Demo][(https://youtu.be/roJ2bHhALX0](https://youtu.be/EnqggDmP-PI?si=Os1xoyCThzEQSgNo))
 ---
 
 ## ✨ Features
